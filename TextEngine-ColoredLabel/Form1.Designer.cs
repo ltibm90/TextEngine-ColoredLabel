@@ -80,7 +80,7 @@ namespace TextEngine_ColoredLabel
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.Location = new System.Drawing.Point(29, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(264, 23);
+            this.label1.Size = new System.Drawing.Size(354, 23);
             this.label1.TabIndex = 3;
             this.label1.Text = "[B]bold[/B] [I]italic[/I] [u]underline[/u] [s]strikeout[/s]";
             // 
