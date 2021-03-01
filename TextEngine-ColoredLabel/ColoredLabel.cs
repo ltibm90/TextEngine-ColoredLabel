@@ -90,7 +90,7 @@ namespace TextEngine_ColoredLabel
             textRectangle.Height -= this.Padding.Bottom - this.Padding.Top;
             textRectangle.X += this.Padding.Left;
             textRectangle.Y += this.Padding.Top;
-            return textRerctangle;
+            return textRectangle;
         }
         /// <summary>
         /// Border çizimin alanını dönderir
